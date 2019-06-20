@@ -4,46 +4,51 @@ A areaTeca é a biblioteca de funções ideal para quem quer calcular a área de
 
 ### Funções
 
-##### areaLosango()
-Calcula a área de um losango. 
+##### areaLosango(diagonalMaior, diagonalMenor)
+Calcula a área de um losango, multiplicando **diagonalMenor** e **diagonalMaior** e dividindo o resultado por 2
 Exemplo:
 ```
 areaLosango(9, 8)   //36
 ````
 
-#### areaCirculo()
-Calcula a área de um circulo.
+#### areaCirculo(raio)
+Calcula a área de um circulo, multiplicando **Math.PI** por **raio²**.
 Exemplo:
 ```
 areaCirculo(3)  //28.27
 ```
 
-#### areaQuadrado
-Calcula a área do quadrado.
+#### areaQuadrado(lado)
+Calcula a área do quadrado, multiplicando **lado * lado**.
 Exemplo:
 ```
 areaQuadrado(2) //4
 ```
 
-#### areaTriangulo
-Calcula a área do triângulo.
+#### areaTriangulo(base, altura)
+Calcula a área do triângulo, multiplicando **base** por **altura** e dividindo o resultado por 2.
 Exemplo:
 ```
 areaTriangulo(5, 6) //15
 ```
 
-#### areaRetangulo
-Calcula a área do Retângulo.
+#### areaRetangulo(base, altura)
+Calcula a área do Retângulo, multiplicando **base** por **altura**.
 Exemplo:
 ```
 areaRetangulo(3, 6) //18
 ```
 
-#### areaTrapezio
-Calcula a área de um trapézio.
+#### areaTrapezio(baseMaior, baseMenor, altura)
+Calcula a área de um trapézio, somando **baseMaior** com **baseMenor**, multiplicando o resultado por **altura** e dividindo tudo por 2.
 Exemplo:
 ```
 areaTrapezio(3, 2, 4) //10
 ```
-
-
+### Equipe
+Marcos Vinicius
+Manoela Porto
+Otávio Augusto
+Lucas Pereira
+Sóstenes Sousa
+Thiago Cordeiro
