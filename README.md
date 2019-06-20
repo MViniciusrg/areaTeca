@@ -46,9 +46,9 @@ Exemplo:
 areaTrapezio(3, 2, 4) //10
 ```
 ### Equipe
-Marcos Vinicius
-Manoela Porto
-Otávio Augusto
-Lucas Pereira
-Sóstenes Sousa
-Thiago Cordeiro
+Marcos Vinicius &nbsp;
+Manoela Porto &nbsp;
+Otávio Augusto &nbsp;
+Lucas Pereira &nbsp;
+Sóstenes Sousa &nbsp;
+Thiago Cordeiro &nbsp;
